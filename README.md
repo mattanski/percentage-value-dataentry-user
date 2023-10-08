@@ -1,10 +1,6 @@
 # percentage-value-dataentry-user
 
 
-Here is an example of a "README.md" file for your "PercentageUserInsertValue" Java program:
-
-markdown
-Copy code
 # README - Compound Interest Calculator
 
 ## Description
